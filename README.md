@@ -2,7 +2,9 @@
 
 ## Sobre:
 
-Desenvolvimento de uma página estática criada com HTML/CSS + Bootstrap. Existindo menu, carrossel, categorias, produtos e rodapé.
+O repositório "Meteora" contém um projeto web desenvolvido utilizando o framework de estilos Bootstrap. Este projeto foi criado com o objetivo de reproduzir uma loja virtual de roupas chamada Meteora, com diversas páginas e elementos interativos.
+
+O projeto é composto por diversas páginas HTML que utilizam o Bootstrap para estilização e organização do conteúdo, de forma responsiva e adaptável a diferentes dispositivos. O Bootstrap foi a framework de estilos utilizada para a criação dos estilos, proporcionando uma abordagem de desenvolvimento mais eficiente e rápida.
 
 ## Layout:
 
@@ -10,18 +12,16 @@ Desenvolvimento de uma página estática criada com HTML/CSS + Bootstrap. Existi
 
 ## Como executar o projeto?
 
-The steps to access the project are very simple, but follow in the following order:
+Os passos para acessar o projeto são bem simples, mas seguem a seguinte ordem:
 
 ```bash
 # Terminal
 
-git clone https://github.com/MateusMaciel340/meteora # clone do repositório
+git clone https://github.com/MateusMaciel340/meteora
 
-cd meteora/ # acessando pasta
+cd meteora/
 
-# acessar Live Server com index.html
 ```
-
 
 ## Tecnologias
 
@@ -50,11 +50,11 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
     </tbody>
 </table>
 
-## How to contribute?
+## Como contribuir?
 
-1. Fork o projeto.
+1. Faça um fork do projeto.
 2. Crie uma nova ramificação com suas alterações: `git checkout -b minha-feature`
-3. Salve as alterações e crie uma mensagem de confirmação contando o que você fez: `git commit -m Modificando isso [...]`
+3. Salve as alterações e crie uma mensagem de confirmação contando o que você fez: `git commit -m "arquivo modificado"`
 4. Envie suas alterações: `git push origin minha-feature`
 
 ## Licença
